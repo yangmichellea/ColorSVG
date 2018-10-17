@@ -8,6 +8,11 @@ angular.module("myApp", ['color.picker']).controller("myCtrl", function ($scope,
             'id': 'vscode',
             'name': 'Visual Studio Code',
             'description': 'code development'
+        },
+        {
+            'id': 'atom',
+            'name': 'Atom',
+            'description': 'code development'
         }
     ];
     $scope.icon = {
