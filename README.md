@@ -1,3 +1,5 @@
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/maticbasle/ColorSVG/blob/master/LICENSE)
+
 # ColorSVG
 
 ColorSVG is a simple web application that allows users to easily modify SVG icon colors.
