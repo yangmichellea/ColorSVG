@@ -1,0 +1,31 @@
+{
+  "name": "colorsvg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maticbasle/ColorSVG.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maticbasle/ColorSVG/issues"
+  },
+  "homepage": "https://github.com/maticbasle/ColorSVG#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "child-process-promise": "^2.2.1",
+    "express": "^4.16.3",
+    "fs-extra": "^7.0.0",
+    "icon-gen": "^1.2.3",
+    "method-override": "^3.0.0",
+    "morgan": "^1.9.1",
+    "uniqid": "^5.0.3",
+    "zip-folder": "^1.0.0"
+  }
+}
