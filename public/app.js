@@ -13,6 +13,11 @@ angular.module("myApp", ['color.picker']).controller("myCtrl", function ($scope,
             'id': 'atom',
             'name': 'Atom',
             'description': 'code development'
+        },
+        {
+            'id': 'sublime',
+            'name': 'Sublime Text',
+            'description': 'code development'
         }
     ];
     $scope.icon = {
