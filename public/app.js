@@ -18,6 +18,11 @@ angular.module("myApp", ['color.picker']).controller("myCtrl", function ($scope,
             'id': 'sublime',
             'name': 'Sublime Text',
             'description': 'code development'
+        },
+        {
+            'id': 'laravel',
+            'name': 'Laravel',
+            'description': 'PHP framework'
         }
     ];
     $scope.icon = {
